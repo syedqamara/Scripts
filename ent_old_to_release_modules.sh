@@ -1,0 +1,3 @@
+#!/bin/bash
+GIT_OLD_PATH=$1
+GIT_NEW_PATH=$2
