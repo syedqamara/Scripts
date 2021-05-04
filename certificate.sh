@@ -1,4 +1,0 @@
-CERT_PATH=$1
-CERT_PASSWORD=$2
-
-security import $CERT_PATH -P $CERT_PASSWORD -A
